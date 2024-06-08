@@ -8,8 +8,6 @@ This project is a Customer Relationship Management (CRM) system built using mode
 ## Features
 - **Customer Management**: Add, edit, view, and delete customer details.
 - **Contact Management**: Track and manage customer contacts.
-- **Activity Tracking**: Log and monitor customer interactions and activities.
-- **Reporting**: Generate reports based on customer data.
 - **Responsive Design**: Accessible and user-friendly interface.
 
 ## Why This Project is Useful
